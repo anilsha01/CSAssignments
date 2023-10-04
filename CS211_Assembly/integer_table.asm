@@ -329,4 +329,3 @@ case6:
   #exit function call
   li $v0, 10
   syscall
-      #exit function call li $v0, 10 syscall
